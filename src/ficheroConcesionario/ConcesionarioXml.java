@@ -23,7 +23,7 @@ public class ConcesionarioXml {
     public static void main(String[] args) {
         
         File f = new File("concesionario.xml");
-        ArrayList<Coche> lista= new ArrayList<Coche>();
+        ArrayList<Coche> lista= new ArrayList<>();
         Coche coche;
         
         

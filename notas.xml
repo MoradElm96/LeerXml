@@ -21,4 +21,18 @@
       <proyecto>10</proyecto> 
       <practica>10</practica> 
     </alumno> 
+    <alumno id="md"> 
+      <nombre> Morad El Mourabit </nombre> 
+      <nota1>8</nota1> 
+      <nota2>5</nota2> 
+      <proyecto>5</proyecto> 
+      <practica>7</practica> 
+    </alumno> 
+    <alumno id="zl"> 
+      <nombre> Zlatan ibrahimovic </nombre> 
+      <nota1>9</nota1> 
+      <nota2>6</nota2> 
+      <proyecto>4</proyecto> 
+      <practica>3</practica> 
+    </alumno> 
 </Curso> 
