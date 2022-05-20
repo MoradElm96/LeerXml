@@ -1,0 +1,24 @@
+<?xml version="1.0"?> 
+<Curso> 
+  <alumno id="jj"> 
+      <nombre> Juan Carlos Jimenez </nombre> 
+      <nota1>5</nota1> 
+      <nota2>7</nota2> 
+      <proyecto>8</proyecto> 
+      <practica>9</practica> 
+  </alumno> 
+  <alumno id="cp"> 
+      <nombre> Christian Perez </nombre> 
+      <nota1>7</nota1> 
+      <nota2>8</nota2> 
+      <proyecto>7</proyecto> 
+      <practica>4</practica> 
+  </alumno> 
+  <alumno id="sf"> 
+      <nombre> Sonia Fernandez </nombre> 
+      <nota1>6</nota1> 
+      <nota2>9</nota2> 
+      <proyecto>10</proyecto> 
+      <practica>10</practica> 
+    </alumno> 
+</Curso> 
