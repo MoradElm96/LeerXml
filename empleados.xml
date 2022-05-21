@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empleados>
+   <empleado>
+     <nombre>Morad </nombre>
+     <apellidos>elmourabbbb </apellidos>
+     <nif>4554521m</nif>
+     <empresa>mody SA, s.a.</empresa>
+     <direccion>Cerro prieto , calle</direccion>
+     <cp>15421</cp>
+     <localidad>Mostoles</localidad>
+     <tlf_fijo>123456789</tlf_fijo>
+     <tlf_movil>987654321</tlf_movil>
+   </empleado>
+   <empleado>
+     <nombre>Notorius </nombre>
+     <apellidos>B.I.G</apellidos>
+     <nif>45123265f</nif>
+     <empresa>Broklyn , s.a.</empresa>
+     <direccion>100 st , calle</direccion>
+     <cp>15241</cp>
+     <localidad>New Island</localidad>
+     <tlf_fijo>85451247</tlf_fijo>
+     <tlf_movil>96969854</tlf_movil>
+   </empleado>
+</empleados>

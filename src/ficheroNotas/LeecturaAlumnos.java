@@ -75,6 +75,10 @@ public class LeecturaAlumnos {
             for (Alumno alumno : lista) {
                 
                 System.out.println(alumno);
+                //probamos a trabajar con la lista
+                int suma = alumno.nota1 + alumno.nota2;
+                
+                
                 
             }
         
